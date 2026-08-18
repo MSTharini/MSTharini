@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ MSTharini
-- 👀 I’m interested in designing
-- 🌱 I’m currently learning Front end development and AI & Ml
+- 👀 I’m an Research Scholar
+- 🌱 I’m currently learning and working with Artificial Intelligence in Healthcare 
 - 💞️ I’m looking to collaborate on Working in a Dynamic Environment
   
 <!---
